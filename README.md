@@ -27,7 +27,7 @@
    - Use Weka's Evaluation class to calculate these metrics and assess the model's effectiveness in detecting spam.
 
 7. **Deployment**:
-   - Once satisfied with the model's performance, deploy it in your application to classify new SMS messages as spam or ham in real-time.
+   - Once satisfied with the model's performance, deploy it to classify new SMS messages as spam or ham in real-time.
 
 ### Flowchart/Schema Diagram:
 
@@ -49,4 +49,3 @@ End
 
 This flowchart represents a sequential process starting from data collection, preprocessing, feature extraction, model training, evaluation, and finally deployment. Each step is interconnected, leading to the development of an SMS spam detector using Weka in Java.
 
-Implementing this flow in your Java application will allow you to create an effective SMS spam detection system leveraging machine learning techniques and the Weka library.
